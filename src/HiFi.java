@@ -1,7 +1,7 @@
 public class HiFi
 {
     // Adding a test message.
-    // extra...extra.
+    // extra...extra... and again!
     private int volume;
     private float FM_station;
     private float balance;
